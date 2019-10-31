@@ -1,0 +1,28 @@
+html {
+	padding: 0 30px;
+	font-size: 16px;
+	line-height: 26px;
+	font-family: "Arial", sans-serif;
+	background-image: url(img/img2.jpg);
+	height: 100%;
+}
+
+body {
+	margin: auto;
+	text-align: center;
+	height: 100%;
+	width: 60%;
+	background-color: #ffffff;
+}
+
+p {
+	
+}
+
+img {
+	
+	margin: auto;
+	border: 5px solid #FF0000;
+	border-radius: 260px;
+	
+}
